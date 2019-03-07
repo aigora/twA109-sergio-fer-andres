@@ -1,11 +1,11 @@
-# Título del trabajo
+# Reproductor de música en función de los colores recibidos por un sensor
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El trabajo consistirá en un receptor de colores. Dependiendo del color recibido se reproducirá un determinado estilo de música, asociado al color anteriormente captado.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Andrés Pérez Mora (apmora) / Fernando Marín Ráez(fernandomarinraez) / Sergio Sánchez Chamizo(sergiosanchezch)
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Mediante este trabajo pretendemos mejorar nuestro nivel de programación y aplicar los conocimientos previamente aprendidos para desarrollar este nuevo proyecto.
