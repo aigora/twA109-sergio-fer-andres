@@ -1,4 +1,4 @@
-# Reproductor de música en función de los colores recibidos por un sensor
+# Musica con colores
 
 El trabajo consistirá en un receptor de colores. Dependiendo del color recibido se reproducirá un determinado estilo de música, asociado al color anteriormente captado.
 
