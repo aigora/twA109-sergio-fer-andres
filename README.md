@@ -9,3 +9,7 @@ Andrés Pérez Mora (apmora) / Fernando Marín Ráez(fernandomarinraez) / Sergio
 ## Objetivos del trabajo
 
 Mediante este trabajo pretendemos mejorar nuestro nivel de programación y aplicar los conocimientos previamente aprendidos para desarrollar este nuevo proyecto.
+
+## Materiales que usaremos
+
+Para este trabajo utilizaremos un sensor de colores, un sensor de distancia y un pequeño altavoz.
